@@ -27,13 +27,13 @@ global.Fca = new Object({
             "PreKey": "",
             "AutoUpdate": true,
             "MainColor": "#9900FF",
-            "MainName": "[ FCA-HZI ]",
-            "Uptime": false,
+            "MainName": "[ ndt ]",
+            "Uptime": true,
             "Config": "default",
             "DevMode": false,
             "Login2Fa": false,
             "AutoLogin": false,
-            "BroadCast": true,
+            "BroadCast": false,
             "AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/RAg3rvw.png Please remove this !, Recommend If You Using getUserInfoV2",
             "EncryptFeature": true,
             "ResetDataLogin": false,
@@ -45,11 +45,6 @@ global.Fca = new Object({
                 "Status": false,
                 "ResetData": false,
                 "AppState_Path": "appstate.json"
-            },
-            "HTML": {   
-                "HTML": true,
-                "UserName": "Guest",
-                "MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
             },
             "AntiGetInfo": {
                 "Database_Type": "default", //json or default
